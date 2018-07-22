@@ -13,7 +13,7 @@ color: white;
   font-size: 18px;
   text-align: center;
   color: white;
-  
+  background-position: center;
 }
 
 #home {
@@ -109,7 +109,7 @@ color: white;
   font-weight: bold;
   background-image: url(../images/Background_Image-the-flatiron-building.png);
   height: 50px;
-
+  background-position: center;
 }
 
 .identify_image {
