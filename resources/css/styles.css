@@ -9,12 +9,11 @@ color: white;
 .content {
   background-image: url(../images/Background_Image-the-flatiron-building.png);
   height: 250px;
-  background-size: cover;
-  background-position: center;
   font-family: Helvetica;
   font-size: 18px;
   text-align: center;
   color: white;
+  opacity: 0.5;
 }
 
 #home {
@@ -67,10 +66,6 @@ color: white;
   color: white;
 }
 
-.identify_image {
-  float: center;
-}
-
 #processheading {
   font-family: Helvetica;
   font-size: 23px;
@@ -114,11 +109,9 @@ color: white;
   font-weight: bold;
   background-image: url(../images/Background_Image-the-flatiron-building.png);
   height: 50px;
-  opacity: 0.5
-  background-size: cover;
-  background-position: center;
+  opacity: 0.4;
 }
 
 .identify_image {
-  fill: grey;
+
   }
