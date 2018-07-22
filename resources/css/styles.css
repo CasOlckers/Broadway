@@ -13,7 +13,7 @@ color: white;
   font-size: 18px;
   text-align: center;
   color: white;
-  opacity: 0.5;
+  
 }
 
 #home {
@@ -55,7 +55,7 @@ color: white;
   font-family: Helvetica;
   font-size: 32px;
   text-align: center;
-  color: grey;
+  color: black;
   font-weight: bold;
 }
 
@@ -70,7 +70,7 @@ color: white;
   font-family: Helvetica;
   font-size: 23px;
   text-align: center;
-  color: grey;
+  color: black;
   font-weight: bold;
 }
 
@@ -78,14 +78,14 @@ color: white;
   font-family: Helvetica;
   font-size: 14px;
   text-align: center;
-  color: grey;
+  color: black;
 }
 
 .cont_det {
   font-family: Helvetica;
   font-size: 14px;
   text-align: center;
-  color: grey;
+  color: black;
 }
 
 #broadwaytradem {
@@ -96,7 +96,7 @@ color: white;
 #footerlinks {
   font-family: Helvetica;
   font-size: 18px;
-  color: grey;
+  color: black;
 }
 .docfooter {
   background-color: dimgrey;
@@ -109,7 +109,7 @@ color: white;
   font-weight: bold;
   background-image: url(../images/Background_Image-the-flatiron-building.png);
   height: 50px;
-  opacity: 0.4;
+
 }
 
 .identify_image {
