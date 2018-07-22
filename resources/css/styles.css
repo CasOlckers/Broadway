@@ -1,3 +1,124 @@
-h1 {
-background-image: url("./images/Background_Image-the-flatiron-building.png");
+#h1font {
+font-family: Helvetica;
+font-size: 70px;
+font-weight: bold;
+text-align: center;
+color: white;
 }
+
+.content {
+  background-image: url(../images/Background_Image-the-flatiron-building.png);
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  font-family: Helvetica;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+#home {
+  font-family: Helvetica;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+#process {
+  font-family: Helvetica;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+#work {
+  font-family: Helvetica;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+#team {
+  font-family: Helvetica;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+#contact {
+  font-family: Helvetica;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+#process {
+  font-family: Helvetica;
+  font-size: 32px;
+  text-align: center;
+  color: grey;
+  font-weight: bold;
+}
+
+.processcat {
+  font-family: Helvetica;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+.identify_image {
+  float: center;
+}
+
+#processheading {
+  font-family: Helvetica;
+  font-size: 23px;
+  text-align: center;
+  color: grey;
+  font-weight: bold;
+}
+
+#processparagraph {
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+  color: grey;
+}
+
+.cont_det {
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+  color: grey;
+}
+
+#broadwaytradem {
+  font-family: Helvetica;
+  font-size: 14px;
+  color: white;
+}
+#footerlinks {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: grey;
+}
+.docfooter {
+  background-color: dimgrey;
+}
+#ny_heading {
+  font-family: Helvetica;
+  font-size: 23px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background-image: url(../images/Background_Image-the-flatiron-building.png);
+  height: 50px;
+  opacity: 0.5
+  background-size: cover;
+  background-position: center;
+}
+
+.identify_image {
+  fill: grey;
+  }
